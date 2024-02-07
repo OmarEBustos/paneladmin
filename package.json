@@ -10,6 +10,7 @@
     "axios": "^1.6.5",
     "bootstrap-vue": "^2.22.0",
     "currency-formatter": "^1.5.9",
+    "dotenv": "^16.4.1",
     "jquery": "^3.7.1",
     "moment": "^2.30.1",
     "vue": "^2.6.14",
